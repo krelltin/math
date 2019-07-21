@@ -1,4 +1,5 @@
-# Python 3: Fibonacci series up to n
+# Create a function with Python 3
+#Python 3: Fibonacci series up to n
 >>> def fib(n):
 >>>     a, b = 0, 1
 >>>     while a < n:
