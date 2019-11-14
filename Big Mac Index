@@ -1,0 +1,20 @@
+The Big Mac index
+Question P7.1.1
+The Economist's Big Mac Index is a light-hearted measure of purchasing power parity between two currencies. Its premise is that the difference between the price of a McDonald's Big Mac hamburger in one currency (converted into US dollars (USD) at the prevailing exchange rate) and its price in the United States is a measure of the extent to which that currency is over- or under-valued (relative to the dollar).
+
+The following data files provide the historical Big Mac prices and exchange rates for five currencies:
+
+argentina-bigmac.txt
+australia-bigmac.txt
+china-bigmac.txt
+uk-bigmac.txt
+us-bigmac.txt
+
+For each of the first four currencies, calculate the percentage over- or under-valuation of each currency as:
+
+(localpriceconvertedtoUSD−USprice)(USprice)×100
+
+and plot it as a function of time.
+
+Solution
+To access solutions, please obtain an access code from Cambridge University Press at the Lecturer Resources page for my book (registration required) and then sign up to scipython.com providing this code.
