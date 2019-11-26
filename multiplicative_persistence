@@ -1,4 +1,4 @@
-#277777788888899, current place holder - conjecture of you can't beat 11 total steps until you hit "0", multiplicative persistence.
+#277777788888899, current place holder for multiplicative persistence - conjecture of you can't beat 11 total steps until you hit "0", multiplicative persistence.
 
 def per(n):
   if len(str(n))==1:
