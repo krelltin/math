@@ -1,3 +1,5 @@
+#test run
+
 MAX_ITER = 80
 
 def mandelbrot(c):
