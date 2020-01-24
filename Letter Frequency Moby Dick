@@ -31,3 +31,6 @@ ax.set_xlim(-0.5, 25.5)
 ax.yaxis.grid(True)
 ax.set_ylabel('Letter frequency, %')
 plt.show()
+
+
+# The total number of letters
