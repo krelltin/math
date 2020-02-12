@@ -10,4 +10,3 @@
 >>>     print()
 >>> fib(1000000)
 
-#c'est tout?
