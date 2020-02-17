@@ -3,6 +3,7 @@ import matplotlib.pyplot as plt
 import matplotlib.cm as cm
 
 # Image width and height; parameters for the plot
+#
 im_width, im_height = 500, 500
 c = complex(-0.1, 0.65)
 zabs_max = 10
