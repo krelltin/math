@@ -1,5 +1,4 @@
 # Create a function with Python 3
-#
 # https://docs.python.org/3/tutorial/controlflow.html#defining-functions
 # Python 3: Fibonacci series up to n
 >>> def fib(n):
