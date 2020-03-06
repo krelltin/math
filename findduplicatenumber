@@ -1,0 +1,21 @@
+#find duplicate number
+#Given an array nums containing n + 1 integers where each integer is between 1 and n (inclusive). 
+#Prove that at least one duplicate number must exist. 
+#Assume that there is only one duplicate number but it could be repeated more than once. 
+#Find the duplicate number.
+
+Example 1: 
+Input: [1,3,4,2,2]
+Output: 2
+
+#not Pigeonhole Principle!
+#not hashmap data structure, std: :map<std: : string, int> mapOfInches = {"name": 4}
+def findDuplicate(nums):
+    seen = {}
+    for num in nums:
+        if num in seen:
+            return num
+        sseen[num] = True
+        
+print(findDuplicate([3,1,3,4,2]))
+
